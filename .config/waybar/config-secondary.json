@@ -5,6 +5,7 @@ See https://github.com/knightfallxz/Hyprland-Dots/blob/Hypr-Config-3.0/waybar/Wa
 
 { 
   "layer": "top",
+  "output": "HDMI-A-1",
   "height": 35,
   "margin-top": 5,
   "margin-left": 5,
@@ -81,7 +82,7 @@ See https://github.com/knightfallxz/Hyprland-Dots/blob/Hypr-Config-3.0/waybar/Wa
 
   "cpu": {
     "interval": 10,
-    "format": " {usage}% ",
+    "format": "SEC  {usage}% ",
     "max-length": 10,
     "on-click": "htop"
   },

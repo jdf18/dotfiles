@@ -5,6 +5,7 @@ See https://github.com/knightfallxz/Hyprland-Dots/blob/Hypr-Config-3.0/waybar/Wa
 
 { 
   "layer": "top",
+  "output": "eDP-1",
   "height": 35,
   "margin-top": 5,
   "margin-left": 5,
